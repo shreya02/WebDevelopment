@@ -1,0 +1,26 @@
+<html>
+<head>
+<title> Login Form </title>
+<head>
+	<link rel="stylesheet" type="text/css" href="login.css">
+</head>
+<body>
+	<div class="loginbox">
+	<img src="th.jpg" class="avatar">
+	<h1> Login Here to Register</h1>
+<form>
+	<p>Username</p>
+	<input type="text" name=" " placeholder="Enter Username or Email-Id">
+	<p> Password</p>
+	<input type="password" name=" " placeholder="Enter your Password"><br>
+	<input type ="submit" name=" " value="Login Here"><br>
+	<a href="#">Lost Your Password?</a><br>
+	<a href="#">No Account?Create one!</a><br>
+</form>
+
+</div>  
+
+</body>
+</head>
+</html>
+</html>
